@@ -29,14 +29,14 @@ function Navbar() {
         className={activeNav === "#Experience" ? "active" : ""}>
         <BsBriefcase />
       </a>
-      <a href="#Skills" onClick={() => setActiveNav("#Skills")}
-        className={activeNav === "#Skills" ? "active" : ""}>
-        <BsCodeSlash />
-      </a>
       <a href="#Portfolio" onClick={() => setActiveNav("#Portfolio")}
         className={activeNav === "#Portfolio" ? "active" : ""}>
-        <IoIosApps />
+        <BsCodeSlash />
       </a>
+      {/* <a href="#Portfolio" onClick={() => setActiveNav("#Portfolio")}
+        className={activeNav === "#Portfolio" ? "active" : ""}>
+        <IoIosApps />
+      </a> */}
       <a href="#Contact" onClick={() => setActiveNav("#Contact")}
         className={activeNav === "#Contact" ? "active" : ""}>
         <RiContactsLine />

@@ -38,7 +38,7 @@ function Expericence() {
             <h3>Infrrd.ai</h3>
             <div className="experience__content">
               <article className="experience__project">
-                <h4>Homegenius</h4>
+                <h4>Homegenius:</h4>
                 <small>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -47,7 +47,7 @@ function Expericence() {
                 </small>
               </article>
               <article className="experience__project">
-                <h4>Zageno</h4>
+                <h4>Zageno:</h4>
                 <small>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -55,6 +55,16 @@ function Expericence() {
                   laboris nisi ut aliquip ex ea commodo consequat.
                 </small>
               </article>
+              <article className="experience__project">
+                <h4>Zageno:</h4>
+                <small>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                  laboris nisi ut aliquip ex ea commodo consequat.
+                </small>
+              </article>
+
             </div>
           </div>
         </div>

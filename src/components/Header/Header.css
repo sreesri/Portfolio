@@ -65,6 +65,8 @@ header {
   header {
     height: 100vh;
     overflow: auto;
+    width: 80%;
+    margin: auto;
   }
 
   .header__socials, .scroll__down{
