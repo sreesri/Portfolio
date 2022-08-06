@@ -1,0 +1,26 @@
+.experience__container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 2rem;
+}
+
+.experience__company {
+  background: var(--color-bg-variant);
+  padding: 2.5rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.experience__company:hover {
+  background: transparent;
+  border: 1px solid var(--color-primary);
+  cursor: default;
+}
+
+.experience__Header h3 {
+  text-align: center;
+  color: var(--color-primary);
+}
+.experience__project {
+}
