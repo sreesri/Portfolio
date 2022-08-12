@@ -11,23 +11,12 @@ function Expericence() {
         <div className="experience__company">
           <div className="experience__Header">
             <h3>Maventic Innovative Solutions</h3>
+            <h3>January 2017 - October 2019</h3>
             <div className="experience__content">
               <article className="experience__project">
-                <h4>Internship:</h4>
                 <small>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </small>
-              </article>
-              <article className="experience__project">
-                <h4>Clarion360:</h4>
-                <small>
-                  &emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                  sed do eiusmod tempor incididunt ut labore et dolore magna
-                  aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                  ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Started my career as an intern in Maventic for six months, where I worked on various parts of the application.
+                  As a Software Developer, I was responsible for building BOL frameworks, providing application identity and also build few UI for the products. I have used technologies like WildFly, KeyClock, SAPUI5 etc.,
                 </small>
               </article>
             </div>
@@ -36,32 +25,12 @@ function Expericence() {
         <div className="experience__company">
           <div className="experience__Header">
             <h3>Infrrd.ai</h3>
+            <h3>November 2019 - Present</h3>
             <div className="experience__content">
               <article className="experience__project">
-                <h4>Homegenius:</h4>
                 <small>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </small>
-              </article>
-              <article className="experience__project">
-                <h4>Zageno:</h4>
-                <small>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
-                </small>
-              </article>
-              <article className="experience__project">
-                <h4>Zageno:</h4>
-                <small>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  Being a Technial Specialist, was responsible for the implementations of various microservices to automate filing of various physical forms, handling digital signatures and role based authentication.
+                  Worked with various technologies like Java, SpringBoot, ElasticSearch, AdobePDF Box, AOPs and REST APIs.
                 </small>
               </article>
 

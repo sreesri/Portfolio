@@ -39,13 +39,8 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
+            Hi! I am Shriram.A Highly skilled and motivated full stack developer with 5 years of experience. I have handled multiple projects involving microservices using SpringBoot and ElasticSearch database. I have experience working with Adobe PDFBox, BOL framework, Wildfly application server.
+            I am a udacity certified Full Stack Developer with knowledge on ReactJS Framework, Java, Python and have also mastered HTML and CSS.
           </p>
 
           <a href="#Contact" className="btn btn-primary">

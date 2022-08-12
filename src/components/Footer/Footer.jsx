@@ -4,10 +4,10 @@ import "./Footer.css";
 function Footer() {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      {/* <a href="#" className="footer__logo">
         Shriram
-      </a>
-      <ul className="permalinks">
+      </a> */}
+      {/* <ul className="permalinks">
         <li>
           <a href="#">Home</a>
         </li>
@@ -26,7 +26,7 @@ function Footer() {
         <li>
           <a href="#Contact">Contact</a>
         </li>
-      </ul>
+      </ul> */}
       <div className="footer__cp">
         <small>&copy; Shriram's Portfolio. All rights reserved</small>
       </div>
