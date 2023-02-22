@@ -12,7 +12,7 @@ function HeaderSocials() {
       <a href="https://github.com/sreesri" target="_blank">
         <AiFillGithub />
       </a>
-      <a href="linkedin" target="_blank">
+      <a href="https://leetcode.com/shriram_ms/" target="_blank">
         <SiLeetcode />
       </a>
     </div>
