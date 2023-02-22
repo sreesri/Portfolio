@@ -29,13 +29,13 @@ function Contact() {
           <article className="contact__option">
             <AiOutlineMail className="contact__icon"/>
             <h4>Email me</h4>
-            <h5>sri59776@gmail.com</h5>
+            <h5>dev.shriram.ms@gmail.com</h5>
             <a href="mailto:sri59776@gmail.com" target={"_blank"}>Send an Email</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp  className="contact__icon"/>
             <h4>Whatsapp</h4>
-            <h5>9655763218</h5>
+            {/* <h5>9655763218</h5> */}
             <a href="https://wa.me/919655763218?text=Hi" target={"_blank"}>Send a Whatsapp</a>
           </article>
         </div>
